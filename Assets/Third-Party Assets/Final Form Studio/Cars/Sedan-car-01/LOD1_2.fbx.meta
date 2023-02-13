@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 48bbcafba6f4eed46809090559d3d76b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 3839571737031343666
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -6627178360275068017
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -3703660513722432546
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -160253535531641287
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -1084987166687386070
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 7464862278316011756
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 2308372198333419159
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -5579929189940567733
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -4262157430184222852
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: -8082912648817628734
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -1577834715927296845
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -5656537620945384093
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 5955452659409934198
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -6326153901195926509
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 4705012391229076803
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -470087599812953134
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 1925729273105731949
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -8108515988804344655
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 6050624284848779728
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 6344303858040953808
+    second: rim-fl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 1743057458712105016
+    second: rim-fl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 4837653973899479653
+    second: rim-fl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -2622927270886476967
+    second: rim-fl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -4994697013580256058
+    second: rim-fl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 5507294019285817054
+    second: rim-fl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 1897084205819050270
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -956242968831981772
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -2150583736146149207
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 6283279630154366614
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 1606549201925537187
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -6199503298492832561
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 673377634515778792
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 2408426890989909599
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 1543393362696838840
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 32464687272614671
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 2381085566224188984
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 4375657562729039235
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 6588791075550714171
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 2135922938346257599
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: -7035858866077256861
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -8766659891239438842
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 9137652887837996825
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -1626760501863499938
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -5075761363592301655
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 6795996307377025126
+    second: rim-fl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -2279729214523079336
+    second: rim-fl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -7506946419024499016
+    second: rim-fl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -6615721991110157551
+    second: rim-fl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 6976430126133828341
+    second: rim-fl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 5745301361482518052
+    second: rim-fl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -8055342982104199848
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 5262012298566001413
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -8595946344278472101
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 8567322634909594951
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 3207097384015584677
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 3954137527137734938
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 6719188124869564209
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -2334042827208561039
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -1842472687004774293
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 4684426406896838561
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 9155836181528257189
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -580056140606439324
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -5310289052465139927
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 5356297193451082689
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 6901392674823093761
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 5986561659954507112
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 2289428117253641138
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -8363301346235619456
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -4764934871934528783
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -4846330971145070817
+    second: rim-fl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 5577120586755980279
+    second: rim-fl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 3617256658734934830
+    second: rim-fl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -162973884670232410
+    second: rim-fl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 4230782303262517526
+    second: rim-fl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 3341123727028782777
+    second: rim-fl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 1795212360591603148
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 5842217066191472189
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -3140716151769929890
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 3697605230840149083
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -9006040993259735392
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -7743294648618459520
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -2888634414330406642
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 6361008185523092124
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 2002084227399532700
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 3778880917971927064
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 2991730065496100634
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -753207134679690226
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 85178237808577011
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 3536852682593841903
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 8272444949381860566
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -3557789128902672110
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -3073730513806500465
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -8195421273171717987
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 86475195935625974
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -8414231868404491893
+    second: rim-fl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 860956850062228144
+    second: rim-fl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 6448328612473552399
+    second: rim-fl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -7101151739725028109
+    second: rim-fl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -2214556983414865049
+    second: rim-fl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -4771180670126653052
+    second: rim-fl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -5569237906430327090
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 2273572384682896197
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 6331402895021072941
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 7991235853389854779
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 3853583269391964381
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 4877825850809435311
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -1955697054001673711
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 2622423305885672968
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 6852021174477399217
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: -8584080363846429540
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -3034171971526993773
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -7230965890277800048
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 3880195889943031990
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 5960510140871081543
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: -1858051293172304332
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 7787091837740569412
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -7877016972267396068
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 2584976606814278474
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -3746447414540363880
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -2353673852535832840
+    second: rim-rl.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -5587050353077176939
+    second: rim-rl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -3981902307893066911
+    second: rim-rl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -4736274851288555215
+    second: rim-rl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 1678571792779863917
+    second: rim-rl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 8711600851513119745
+    second: rim-rl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -7284026945587244220
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 7462806923516117943
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 4123487134230408065
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 4399302678320870720
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -3130000835791555584
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 6951495452226861655
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -3044116283218919625
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 4598528058913250043
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -7488450394447938551
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 6926895051471334280
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -425908197342414201
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -1369218257338929419
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -493062006458426521
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -3659240378968530650
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 3591465032657779626
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 10243166042321495
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -1797556777353739472
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -3642029450204053279
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 2248316499627606056
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -7945817492827363755
+    second: rim-rl.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -6573569708104328574
+    second: rim-rl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 4278331706098467451
+    second: rim-rl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -8155381473697620842
+    second: rim-rl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 9014268661862236287
+    second: rim-rl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 307879692142180683
+    second: rim-rl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 2267324176406320517
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 7546141551670876458
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -2694795186944258422
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 6954615639701694721
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -1052063171042992215
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 5781717201777332645
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -686077566977382911
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 2817715634927257914
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 3010169270166591676
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: -1258414966986159595
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 8657506261702829404
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -5395284253879623660
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -7201424084593297576
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -9005345641546005313
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 7852168642823630869
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 8111555156422480645
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -3732892594285232154
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 5818704328612236991
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -4350175661972522538
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 2330655881690094274
+    second: rim-rl.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -1260060232095115068
+    second: rim-rl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 2304970041564635229
+    second: rim-rl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -4042575028397284608
+    second: rim-rl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 692115867146194794
+    second: rim-rl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 9054041593880036331
+    second: rim-rl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -4936489319080140305
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -3393826147554975903
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 6947603886639632899
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -2095661177283866423
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -8650713518428513836
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 7678989930524292985
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -6910559356082372701
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -6478811724826703662
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 6198831538077274606
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: -649187375437473027
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -8436134306177592490
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -3849700904521998946
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -2693648721226181331
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 3475252849197374831
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: -7943662309634205623
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 3556326272779404176
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -5677120848505029628
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -4457731026329966945
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -7686091669326251617
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 6535321936619194067
+    second: rim-rl.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -4283090660971904216
+    second: rim-rl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 3777848085803433902
+    second: rim-rl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 4364336141176469309
+    second: rim-rl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 5362080459068409130
+    second: rim-rl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 7574533420230398920
+    second: rim-rl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 5513473384886706442
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 7309642142210692940
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 4483728767366466395
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 4591642334836109564
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -614646660215290626
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -4981996125208103186
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 6804792795816026000
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -2948384171322064793
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 1842415309395202354
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 1338746890294819442
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 3145235784532346204
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -288636005448087725
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 3157897670202552089
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -8275455043255946067
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: -7435659676502011348
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 8860369021822694577
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 6783480717086335901
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 5543508701254256057
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -9189317759691973410
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 1837350700508535379
+    second: rim-rr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 9038894763090713249
+    second: rim-rr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -763010291097175728
+    second: rim-rr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 586893809360926348
+    second: rim-rr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -2966013559748655443
+    second: rim-rr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 2194389381568463376
+    second: rim-rr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 4903076583635931091
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -5002364004663178084
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 6045632294782214848
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 6372409809776735767
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -7484647598466049002
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 4792343606890527449
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -8955107271726489918
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 6548040677004170208
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 4451140486931935332
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 4972887551878569059
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -1741235396812623794
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -8490229902834035220
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 9171407565185743834
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 2205381655988073240
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 3119441818908275484
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 6579479168476794851
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 571332817194274935
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 7611267431819032732
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 645365545067236722
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 3683331430884016553
+    second: rim-rr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -8436022907753870078
+    second: rim-rr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -354631476043130901
+    second: rim-rr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -8660400446945600251
+    second: rim-rr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 7905076195308215070
+    second: rim-rr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 4203913098336828423
+    second: rim-rr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -885367133748305158
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -2299169127278638140
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -5554551733443510447
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 5032916521633088031
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 3595203189123456249
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 6985182071192046338
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -6574321654896940937
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 1190375430701162638
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 2008508327063077657
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: -5263613892694319473
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 4812524368344625059
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -527935199609289607
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 5184160278625961215
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 1568546591540352490
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 2313298504279085052
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 8007233072172371829
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -989440362203348297
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 2654627594016649442
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -5651791624229885246
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 947686950361761744
+    second: rim-rr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 5732191683054304943
+    second: rim-rr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 2317869564361790018
+    second: rim-rr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -4237909159345531130
+    second: rim-rr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -4386130556727515323
+    second: rim-rr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 6895629448200985800
+    second: rim-rr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 3577994352053242425
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 498684483053288467
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -2451023791768956217
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -5408930425235208938
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 4192217322525648615
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -4483652447027026698
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 1516508526537376011
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 3432200377229743805
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 1103686908389642611
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 1071556687923106488
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 4082455889989700874
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 5256447308444375584
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -7692840602136679124
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -4521395689597239408
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 3329951554923887837
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 5036755465837493870
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -4763720247129021915
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 4229140156172312438
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -7843777305611492806
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 7593863261274504508
+    second: rim-rr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -3521663765128115394
+    second: rim-rr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 6469700244209640203
+    second: rim-rr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 327401569326939350
+    second: rim-rr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -7760830648490311185
+    second: rim-rr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -4106563024288235201
+    second: rim-rr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 5408196892602079432
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: -4176888992510637459
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 7504209029491992715
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 694137411965723877
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 701053488443121344
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -9064409180825511753
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 5480112122367018761
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 2454686652766120083
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -2824162853594301412
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 6375283146809823641
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 5430044058056843158
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -6342063472892017821
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 5864665237646937300
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 2310089854144591513
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 923751658416817040
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 8814787192685076406
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 3214782582732604783
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 7433132145552382459
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 3804974150999701002
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -5313826056885710103
+    second: rim-fr.001|rim-fl.002|rim-fl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -5106320639715678394
+    second: rim-fr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 2696181383750876689
+    second: rim-fr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 7537904879465861568
+    second: rim-fr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -1634873520397869361
+    second: rim-fr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 1774970345262754098
+    second: rim-fr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: 2433992852592732130
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 2825710108286763031
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -606732361715996261
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 1812996211892626563
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -273987732195338524
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -9037845094071056160
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -7130142945966266304
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: -4301577148987443263
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -3703340965687606439
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 1323205889878761832
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -601417984978555420
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -7698370854133477719
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -5573873908795957006
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: 8863695332691243941
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 5003594284114511711
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -7911066921158409545
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -7029897781840201191
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -7447435361444942135
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 8498756942768325517
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: -5884383878749952296
+    second: rim-fr.001|rim-fr.002|rim-fr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -2244951246378563802
+    second: rim-fr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 3983827877380436671
+    second: rim-fr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 262314114612931387
+    second: rim-fr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 8838803110643255106
+    second: rim-fr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 6491111709379685262
+    second: rim-fr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 5197268171005592465
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 4931056849647886052
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: 1390267403414479089
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: -3848523736382839609
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: 728751394088848498
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -5361243123701200796
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: 2292420962078245064
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 5003404124904983966
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: -1201238592041867443
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 9045991767815824725
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: -2125071155299366301
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: 5918219579363294867
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: -683298688951878593
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -6041005405696074198
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 5846194633187120999
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 6408263560087334011
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 5623742015300341023
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: 1950474378625149617
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: 6843981957019574555
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 6587665788745958468
+    second: rim-fr.001|rim-rl.002|rim-rl.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: -1545018737820343134
+    second: rim-fr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -6873768939993953135
+    second: rim-fr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 7918363704566362215
+    second: rim-fr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -7146361778039332977
+    second: rim-fr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: 6775660477149688228
+    second: rim-fr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: -8644240778976807091
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer
+  - first:
+      74: 3906578535019182031
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.001
+  - first:
+      74: -2366517773326594829
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.002
+  - first:
+      74: 827524270195208178
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.003
+  - first:
+      74: -6282344910368246223
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fl|Take 001|BaseLayer.004
+  - first:
+      74: -7821283604125024716
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer
+  - first:
+      74: -5519036516625372904
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.001
+  - first:
+      74: 5350137546382258180
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.002
+  - first:
+      74: 2705509572507536064
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.003
+  - first:
+      74: 9176243664682817587
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-fr|Take 001|BaseLayer.004
+  - first:
+      74: 5234294678295678239
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer
+  - first:
+      74: -6218145869672137896
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.001
+  - first:
+      74: 4326702240954605491
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.002
+  - first:
+      74: -6309337851733974456
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.003
+  - first:
+      74: -8114376635028391944
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rl|Take 001|BaseLayer.004
+  - first:
+      74: 1565970848329279887
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: 2057749233089398338
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -4877291573997573834
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -5458562955472499593
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 5123221558006625700
+    second: rim-fr.001|rim-rr.002|rim-rr.001|rim-rr|Take 001|BaseLayer.004
+  - first:
+      74: 1299423984120340767
+    second: rim-fr.001|rim-rr|Take 001|BaseLayer
+  - first:
+      74: -592265322774301100
+    second: rim-fr.001|rim-rr|Take 001|BaseLayer.001
+  - first:
+      74: -2851297052281756023
+    second: rim-fr.001|rim-rr|Take 001|BaseLayer.002
+  - first:
+      74: -9118424334748229541
+    second: rim-fr.001|rim-rr|Take 001|BaseLayer.003
+  - first:
+      74: 3414723851789917794
+    second: rim-fr.001|rim-rr|Take 001|BaseLayer.004
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
