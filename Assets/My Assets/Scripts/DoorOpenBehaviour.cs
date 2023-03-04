@@ -1,11 +1,23 @@
+using System;
 using UnityEngine;
 
 public class DoorOpenBehaviour : MonoBehaviour
 {
-    public OcclusionPortal OcclusionBox;
+    public GameObject OcclusionDoor;
+    void Start()
+    {
+        OcclusionDoor.GetComponent<OcclusionPortal>().open = false;
+    }
 
     void OnTriggerEnter(Collider obj)
     {
-        OcclusionBox.open = true;
+        if (obj.tag == "MainCamera")
+            OcclusionDoor.GetComponent<OcclusionPortal>().open = true;
+    }
+
+    void OnTriggerExit(Collider obj)
+    {
+        if (obj.gameObject.tag == "MainCamera")
+            OcclusionDoor.GetComponent<OcclusionPortal>().open = false;
     }
 }

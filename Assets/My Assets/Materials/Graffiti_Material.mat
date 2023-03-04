@@ -28,6 +28,7 @@ Material:
   m_ValidKeywords:
   - _COLORMAP
   - _MATERIAL_AFFECTS_ALBEDO
+  - _MATERIAL_AFFECTS_MASKMAP
   m_InvalidKeywords:
   - _DISABLE_SSR_TRANSPARENT
   - _NORMALMAP_TANGENT_SPACE
@@ -176,7 +177,7 @@ Material:
     - _AffectEmission: 0
     - _AffectMetal: 0
     - _AffectNormal: 0
-    - _AffectSmoothness: 0
+    - _AffectSmoothness: 1
     - _AlbedoAffectEmissive: 0
     - _AlphaCutoff: 0.5
     - _AlphaCutoffEnable: 0
@@ -197,7 +198,7 @@ Material:
     - _DecalBlend: 1
     - _DecalColorMask0: 15
     - _DecalColorMask1: 0
-    - _DecalColorMask2: 0
+    - _DecalColorMask2: 3
     - _DecalColorMask3: 0
     - _DecalMaskMapBlueScale: 1
     - _DecalMeshBiasType: 0
