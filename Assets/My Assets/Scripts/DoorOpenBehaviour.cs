@@ -11,13 +11,13 @@ public class DoorOpenBehaviour : MonoBehaviour
 
     void OnTriggerEnter(Collider obj)
     {
-        if (obj.tag == "MainCamera")
+        if (obj.tag == "MainCamera" || obj.gameObject.tag == "Player")
             OcclusionDoor.GetComponent<OcclusionPortal>().open = true;
     }
 
     void OnTriggerExit(Collider obj)
     {
-        if (obj.gameObject.tag == "MainCamera")
+        if (obj.gameObject.tag == "MainCamera" || obj.gameObject.tag == "Player")
             OcclusionDoor.GetComponent<OcclusionPortal>().open = false;
     }
 }
