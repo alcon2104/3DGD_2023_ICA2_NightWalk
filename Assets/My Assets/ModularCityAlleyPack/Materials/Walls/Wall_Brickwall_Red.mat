@@ -8,10 +8,11 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Wall_Brickwall_Red
-  m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 3f03b6c60b38e7c449f36e0eb577b0de, type: 3}
   m_ValidKeywords:
-  - _DETAIL_MAP
   - _DISABLE_SSR_TRANSPARENT
+  m_InvalidKeywords:
+  - _DETAIL_MAP
   - _DISPLACEMENT_LOCK_TILING_SCALE
   - _HEIGHTMAP
   - _MASKMAP
@@ -19,12 +20,12 @@ Material:
   - _NORMALMAP_TANGENT_SPACE
   - _PIXEL_DISPLACEMENT
   - _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE
-  m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2225
-  stringTagMap: {}
+  stringTagMap:
+    MotionVector: User
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
@@ -122,6 +123,26 @@ Material:
         m_Texture: {fileID: 2800000, guid: ffc9c9a1879d417478d85ceaa1fbb44c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_50ce3b683f6946e7a68f8bcda3ffd98d_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 58c95c17c568510429d8a2167f4dc89d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_746e572d6e0741c4811cd05ebd1b557e_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 00194d3d36dac8d4c8128c8ce8d7eeab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_974a712e8cb244e2b2970e871e3b9bf9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4101ed78e069e7543a44282ee3a7ed8f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d01fd7b741ce40748c2e754170b92f7a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 00194d3d36dac8d4c8128c8ce8d7eeab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ec56244544904e238559b1d22c9d6126_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 00194d3d36dac8d4c8128c8ce8d7eeab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecularColorMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -178,6 +199,7 @@ Material:
     - _BlendMode: 0
     - _BumpScale: 1
     - _CoatMask: 0
+    - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
     - _Cutoff: 0.5
@@ -191,6 +213,8 @@ Material:
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 2
+    - _DistortAmount: 0
+    - _DistortScale: 0
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
@@ -226,6 +250,7 @@ Material:
     - _MetallicRemapMin: 0
     - _Mode: 0
     - _NormalMapSpace: 0
+    - _NormalPower: 0
     - _NormalScale: 1
     - _OcclusionStrength: 0.6
     - _OpaqueCullMode: 2
@@ -239,6 +264,8 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
+    - _RenderQueueType: 1
+    - _RequireSplitLighting: 0
     - _Smoothness: 0.635
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
@@ -247,13 +274,19 @@ Material:
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
     - _SpecularOcclusionMode: 1
+    - _SplotchPower: 0
+    - _SplotchScale: 5
+    - _SplotchSpasm: 0.1
+    - _SplotchSpeed: 0
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
+    - _StencilRefDistortionVec: 4
     - _StencilRefGBuffer: 10
     - _StencilRefMV: 40
     - _StencilWriteMask: 6
     - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDistortionVec: 4
     - _StencilWriteMaskGBuffer: 14
     - _StencilWriteMaskMV: 40
     - _SubsurfaceMask: 1
@@ -292,7 +325,9 @@ Material:
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _StreakSpeed: {r: 0, g: 0.52, b: 0, a: 0}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
+    - _Tiling: {r: 1.25, g: 0.55, b: 0, a: 0}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
